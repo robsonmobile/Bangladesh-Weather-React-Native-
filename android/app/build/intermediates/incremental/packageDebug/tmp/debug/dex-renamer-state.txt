@@ -1,0 +1,4 @@
+#Mon Aug 06 16:03:26 BDT 2018
+base.0=D\:\\Coding Panel\\react-native\\weather-app\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

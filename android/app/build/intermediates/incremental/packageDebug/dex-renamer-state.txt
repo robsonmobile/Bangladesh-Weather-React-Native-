@@ -1,0 +1,4 @@
+#Mon Aug 06 14:56:32 BDT 2018
+base.0=D\:\\Coding Panel\\react-native\\weather-app\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Coding Panel\\react-native\\weather-app\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

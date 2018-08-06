@@ -41,6 +41,10 @@ export default class App extends React.Component {
   render() {
     return (
         <View style={styles.container}>
+          <StatusBar
+           backgroundColor={'transparent'}
+           translucent
+         />
           <View style={styles.statusBar}></View>
           <View style={styles.header}>
             <Text style={styles.header__text}>Bangladesh Weather</Text>
@@ -62,12 +66,12 @@ const styles = StyleSheet.create({
 
   statusBar: {
     height: StatusBar.currentHeight,
-    backgroundColor: '#4a148c',
+    backgroundColor: '#880e4f',
   },
 
   header: {
     height: 80,
-    backgroundColor: '#6a1b9a',
+    backgroundColor: '#ad1457',
   },
 
   header__text: {

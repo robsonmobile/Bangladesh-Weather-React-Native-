@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Coding Panel\react-native\weather-app\android\app\src\main\assets"/><source path="D:\Coding Panel\react-native\weather-app\android\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Coding Panel\react-native\weather-app\android\app\src\debug\assets"/></dataSet></merger>

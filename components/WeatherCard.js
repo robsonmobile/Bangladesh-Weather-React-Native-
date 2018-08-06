@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
   },
 
   header: {
-    backgroundColor: '#6a1b9a',
+    backgroundColor: '#ad1457',
     flex: 2,
     flexDirection: 'row',
     alignItems: 'center',
@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
   },
 
   weatherStatusText: {
-    color: '#4a148c',
+    color: '#880e4f',
     fontSize: 25,
     fontWeight: 'bold',
     position: 'absolute',
